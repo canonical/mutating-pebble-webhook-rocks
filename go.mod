@@ -3,7 +3,7 @@ module github.com/canonical/mutating-pebble-webhook-rock
 go 1.23.0
 
 require (
-	github.com/appscode/jsonpatch v1.0.1
+	github.com/appscode/jsonpatch/v3 v3.0.1
 	k8s.io/api v0.31.0
 	k8s.io/apimachinery v0.31.0
 )

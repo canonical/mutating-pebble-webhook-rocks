@@ -4,8 +4,8 @@ go 1.23.0
 
 require (
 	github.com/appscode/jsonpatch v1.0.1
-	k8s.io/api v0.31.0
-	k8s.io/apimachinery v0.31.0
+	k8s.io/api v0.33.4
+	k8s.io/apimachinery v0.33.4
 )
 
 require (
